@@ -12,3 +12,9 @@
 ### 6. When a license plate is detected, it will be highlighted with a green rectangle, and its ROI will be displayed in a separate window.
 ### 7. Press 'p' on your keyboard to save the detected license plate image. The saved images will be stored in the "Resources/Scanned_Number_Plates" folder.
 ### 8. Press 's' on your keyboard to stop the detection and exit the program.
+
+---
+## Demo 
+https://drive.google.com/file/d/1E7c07e7ehrh8SDnHUE_bR1EVv3Kg9y1g/view?usp=sharing
+
+---
