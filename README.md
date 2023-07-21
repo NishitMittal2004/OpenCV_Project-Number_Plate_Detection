@@ -1,1 +1,1 @@
-# OpenCV_Project-Number_Plate_Detection
+# OpenCV Project - Number Plate Detection
